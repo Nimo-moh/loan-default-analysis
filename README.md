@@ -36,4 +36,4 @@ This project demonstrates how to clean and normalize a loan default dataset usin
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/Loan-Default-Analysis.git
+   git clone https:/Nimo-moh/github.com//Loan-Default-Analysis.git
